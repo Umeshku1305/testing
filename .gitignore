@@ -1,4 +1,8 @@
-src
+assets
+app.css
+app.jsx
+index.css
+
 
 # Logs
 logs
