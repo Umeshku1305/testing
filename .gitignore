@@ -1,10 +1,11 @@
 
 
 app.jsx
-index.css
 
 
-# Logs
+
+# Logsg
+
 logs
 *.log
 npm-debug.log*
